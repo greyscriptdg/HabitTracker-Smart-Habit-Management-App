@@ -62,8 +62,6 @@ This app is live on [Vercel](https://vercel.com) — just push to GitHub and lin
 
 ## 📄 License
 
-MIT — feel free to fork, improve, or use in your portfolio!---
-
 ## ⚠️ Disclaimer
 
 This project is intended for **personal use, learning, and portfolio purposes only**.  
